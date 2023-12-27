@@ -106,3 +106,4 @@ while (game_on != 0):
         else:
             print("player 2 won!!")
         break  # Exit the loop if there's a winner
+
